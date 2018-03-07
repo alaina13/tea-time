@@ -93,7 +93,7 @@ nav a:hover{
   color: #ffffff;
 }
 
-#retailers th, td {
+#retailers th, #retailers td {
   border: 1px solid #ADADAD;
   text-align: left;
   padding: 10px;
