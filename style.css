@@ -84,22 +84,22 @@ nav a:hover{
 }
 
 /* Tables */
-table {
+#retailers {
   border-collapse: collapse;
 }
 
-th {
+#retailers th {
   background-color: #ADADAD;
   color: #ffffff;
 }
 
-th, td {
+#retailers th, td {
   border: 1px solid #ADADAD;
   text-align: left;
   padding: 10px;
 }
 
-table a {
+#retailers table a {
   text-decoration: none;
   font-weight: bold;
   color: #4E598C;
