@@ -71,7 +71,7 @@ nav a:hover{
 
 /* Main */
 #main {
-    background-color: #dbdbdb;
+    background-color: #ffffff;
 }
 
 #main .wrap {
@@ -81,6 +81,12 @@ nav a:hover{
   min-height: 500px;
   background-color: #ffffff;
   padding: 20px;
+}
+
+#main a {
+  color: #4E598C;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 /* Tables */
